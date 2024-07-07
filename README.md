@@ -37,7 +37,7 @@ poetry install
 - [Amazon Bedrock Agents Outfit Assistant](https://github.com/build-on-aws/amazon-bedrock-agents-outfit-assistant)
 - [Amazon Bedrock Agents Webscraper](https://github.com/build-on-aws/bedrock-agents-webscraper)
 - [Amazon Bedrock Agents Streamlit](https://github.com/build-on-aws/bedrock-agents-streamlit)
-- [Sample Application with Amazon Bedrock](https://github.com/build-on-aws/llm-rag-vectordb-python)
+- [Sample Applications with Amazon Bedrock](https://github.com/build-on-aws/llm-rag-vectordb-python)
 
 # More
 - [Aleksandr Bernadskii - Building GenAI apps with Amazon Bedrock](https://www.youtube.com/watch?v=Ye3_s0oDanc)
